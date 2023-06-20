@@ -1,4 +1,3 @@
-<!-- BLOG-POST-LIST:START -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -42,5 +41,6 @@ I am Khalid, studying web development at Intec-Brussels (yet) :D, constantly lea
 ### :writing_hand: Blog Posts :
 
 
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
