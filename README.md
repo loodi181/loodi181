@@ -38,3 +38,4 @@ I am Khalid, studying web development at Intec-Brussels (yet) :D, constantly lea
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <!-- BLOG-POST-LIST:END -->
+### :writing_hand: Blog Posts :
