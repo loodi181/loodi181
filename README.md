@@ -21,6 +21,7 @@
 </div>
 </div>
 ---
+<hr>
 
 ### :walking: About Me :
 I am Khalid, studying web development at Intec-Brussels (yet) :D, constantly learning and growing. I enjoy sharing my progress 
