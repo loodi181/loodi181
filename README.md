@@ -10,7 +10,7 @@
   
 </h1>
 <hr>
-### :walking: About Me :
+:walking: About Me :
 I am Khalid, studying web development at Intec-Brussels (yet) :D, constantly learning and growing. I enjoy sharing my progress 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 <hr>
