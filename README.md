@@ -22,5 +22,5 @@
 </div>
     ---
 
-### :woman_technologist: About Me :
+### :walking: About Me :
 
