@@ -20,7 +20,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 </div>
-    ---
+---
 
 ### :walking: About Me :
 I am Khalid, studying web development at Intec-Brussels (yet) :D, constantly learning and growing. I enjoy sharing my progress 
