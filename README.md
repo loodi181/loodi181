@@ -42,5 +42,6 @@ I am Khalid, studying web development at Intec-Brussels (yet) :D, constantly lea
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
 
